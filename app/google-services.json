@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "661307445188",
+    "firebase_url": "https://semana14-46052-default-rtdb.firebaseio.com",
+    "project_id": "semana14-46052",
+    "storage_bucket": "semana14-46052.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661307445188:android:553bd640f7e7a10efc1e91",
+        "android_client_info": {
+          "package_name": "com.example.semana14_listatarea2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661307445188-mart7fvqdp5rbkcalfolge4e5rnfh65r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQWIS4o1EPTkLXCjHmT-jV_R6freqJ_N0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661307445188-mart7fvqdp5rbkcalfolge4e5rnfh65r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
